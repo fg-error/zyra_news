@@ -7,7 +7,7 @@ Pasamos las últimas semanas puliendo la aplicación: corregimos el retraso en s
 
 * **Fondos más fluidos:** renovamos por completo el renderizado de los fondos del reproductor, por lo que ahora el desenfoque de las portadas y las transiciones de color son mucho más fluidos.
 
-* **Traducciones:** El italiano ya está al 100 %, y más de 20 idiomas recibieron nuevas actualizaciones.
+* **Traducciones:** El italiano ya está al 100%, y más de 20 idiomas recibieron nuevas actualizaciones.
 
 ## Enlaces
 
