@@ -1,6 +1,6 @@
 [
   {
-    "id": "zyra-canary-update.md",
+    "id": "zyra-update.md",
     "Title": "Versiones Canary y una interfaz de usuario más fluida ⚡",
     "Description": "Se corrigió el tartamudeo en segundo plano al saltar pistas, se lograron transiciones de interfaz de usuario fluidas y se lanzaron compilaciones de prueba Canary automatizadas. Además, nuevas traducciones en más de 20 idiomas!",
     "ImageURL": ["https://media1.tenor.com/m/2_mnihQD7yMAAAAd/sasuke-banner-sasuke.gif"],
