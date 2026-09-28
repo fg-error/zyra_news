@@ -4,9 +4,6 @@
 
 Pasamos las últimas semanas puliendo la aplicación: corregimos el retraso en segundo plano al cambiar de pista, mejoramos la fluidez de la interfaz y automatizamos nuestras compilaciones de prueba.
 
-## ¿Qué hay de nuevo?
-
-* **Canal Canary:** ¿Quieres probar las nuevas funciones antes que nadie? Ahora puedes descargar compilaciones de prueba automatizadas directamente desde [ZyraCanary](https://github.com/MuwMx/YumaCanary).
 
 * **Fondos más fluidos:** renovamos por completo el renderizado de los fondos del reproductor, por lo que ahora el desenfoque de las portadas y las transiciones de color son mucho más fluidos.
 
